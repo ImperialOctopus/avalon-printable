@@ -1,1 +1,3 @@
-# avalon-cards
+# Avalon Cards
+
+Printable cards to play The Resistance: Avalon.
