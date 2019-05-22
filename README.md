@@ -3,5 +3,6 @@
 Printable cards to play The Resistance: Avalon.\
 Cards are sized to standard bridge card size.
 
-Credit to <https://game-icons.net/> for team icons.\
-Old English translations from <https://www.oldenglishtranslator.co.uk/>
+Team icons from <https://game-icons.net/>.\
+Old English translations from <https://www.oldenglishtranslator.co.uk/>.\
+Font Maitree by Cadson Demak from <https://fonts.google.com/specimen/Maitree.>
