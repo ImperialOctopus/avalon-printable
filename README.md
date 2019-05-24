@@ -8,3 +8,4 @@ Old English translations from <https://www.oldenglishtranslator.co.uk/>.\
 Font Maitree by Cadson Demak from <https://fonts.google.com/specimen/Maitree.>
 
 5 player quest art by Eberhard Grossgasteiger from Unsplash.
+6 player quest art by Kayle Kaupanger from Unsplash.
