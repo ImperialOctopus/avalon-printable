@@ -12,4 +12,6 @@ Font Maitree by Cadson Demak from <https://fonts.google.com/specimen/Maitree.>
 5 player quest art by Eberhard Grossgasteiger from Unsplash.\
 6 player quest art by Kayle Kaupanger from Unsplash.\
 7 player quest art by George Hiles from Unsplash.\
-8 player quest art by Tom Coe from Unsplash.
+8 player quest art by Tom Coe from Unsplash.\
+9 player quest art by Sandra Ahn Mode from Unsplash.\
+10 player quest art by Richard Clark from Unsplash.
